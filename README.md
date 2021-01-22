@@ -19,7 +19,7 @@ Na área de Tecnologia, a Distribuidora Coimbra está sempre utilizando o que h�
 Na área de desenvolvimento, 90% de todos os sistemas da empresa é desenvolvido internamente. A equipe fica responsável por implantar os novos processos sistêmicos em diversas plataformas existentes na empresa, desde aplicações WEB e <i> mobile</i>  até o desenvolvimento <i>desktop</i> no ERP da empresa, integrando novos serviços e melhorias, sempre agregando valor ao negócio da empresa.
 </p>
 
-## Problema
+## Desafio
 
 <p align="justify">
 Uma determinada empresa deseja automatizar seu processo de Gestão de Contrato no qual realiza manualmente utilizando planilhas em Excel. 
@@ -44,14 +44,17 @@ Deseja também uma opção para busca, listagem e detalhamento dos Contratos. Es
 
 Sendo possível filtrar por contratado, vigência, data de inserção e status.
 
-## Pré-requisitos
+## Requisitos
 
 * Utilizar Banco de dados Relacional.
 * Utilizar paradigma de programação Orientada a Objetos.
 * Utilizar padrão de arquitetura.
 
-## Dicas
-* Qualidade e cobertura dos testes unitários.
+## Extra 
+   *Os itens abaixo não são obrigatórios*
+* Teste automatizados: qualidade e cobertura dos testes unitários.
+* Validações e erros bem estruturados.
+* Sistema deployado em algum provedor de cloud.
 
 ## Envio da solução
 
@@ -61,8 +64,9 @@ Seu projeto será avaliado de acordo com os seguintes critérios:
 
 * Deve preencher os requerimentos básicos;
 * Deve seguir as instruções de envio do desafio;
-* Documentar como configurar o ambiente, executar aplicação e testá-la;
+* Documentar como configurar o ambiente, executar aplicação e testá-la, da melhor maneira possível para que possamos avaliar a solução proposta com o menor esforço;
 * Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto.
+* Organização do código.
 
 
 O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação e incluindo no pull request(pr):
